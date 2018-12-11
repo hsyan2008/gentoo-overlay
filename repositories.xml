@@ -2,8 +2,8 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
   <repo quality="experimental" status="unofficial">
-    <name><![CDATA[hsyan2008/gentoo-overlay]]></name>
-    <description lang="en"><![CDATA[hsyan2008/gentoo-overlay]]></description>
+    <name><![CDATA[hsyan2008-overlay]]></name>
+    <description lang="en"><![CDATA[hsyan2008-overlay]]></description>
     <homepage>https://github.com/hsyan2008/gentoo-overlay</homepage>
     <owner type="person">
       <email>hsyan2008@qq.com</email>
